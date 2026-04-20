@@ -1,0 +1,38 @@
+
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../fonts/opn-sns/opensans-regular-webfont.eot');
+    src: url('../fonts/opn-sns/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opn-sns/opensans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/opn-sns/opensans-regular-webfont.woff') format('woff'),
+         url('../fonts/opn-sns/opensans-regular-webfont.ttf') format('truetype'),
+         url('../fonts/opn-sns/opensans-regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+
+}
+
+@font-face {
+    font-family: 'oswaldregular';
+    src: url('../fonts/Oswald/oswald-regular-webfont.eot');
+    src: url('../fonts/Oswald/oswald-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Oswald/oswald-regular-webfont.woff2') format('woff2'),
+         url('../fonts/Oswald/oswald-regular-webfont.woff') format('woff'),
+         url('../fonts/Oswald/oswald-regular-webfont.ttf') format('truetype'),
+         url('../fonts/Oswald/oswald-regular-webfont.svg#oswaldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {font-family: "Open Sans",sans-serif !important; }
+
+.login-header .portal-text, .head-page, .font-osw, .service-list-content > h3, .home-menu .navbar-nav>li> a, .csc-services-link, .banner .head-banner, .header-italic, 
+.services-banner ul li, .list-section h3, .service-list-head, .inner-section-page h1, .inner-section-page h2   {  font-family: "oswaldregular" !important; }
+
+.popup input, .popup textarea, .popup select, .popup .form-control, .view-link, .benefits-modal li {  font-family: "Open Sans",sans-serif !important; }
+
+.head-title-seva {height: 95px;padding: 30px 15px;}
+.head-title-seva h3{margin: 0 0 0 0;  font-size: 1.2em;}
